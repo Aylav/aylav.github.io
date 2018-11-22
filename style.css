@@ -199,7 +199,7 @@ ul .list_link {
   text-decoration: underline;
   letter-spacing: 0.4px;
 }
-ul .list_link: hover {
+ul .list_link:hover {
   text-decoration: none;
 }
 .after_install {
